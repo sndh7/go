@@ -1,5 +1,4 @@
-<html lang="en">
-<head>
+
   <title>INDEX PAGE</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://patiltechnicalsolutions.com/img/ms4.png" rel="icon">
@@ -23,7 +22,7 @@ a, a:active, a:visited {color:#000066;}
 a:hover {color:#66a3ff;}
 h2{font-family:arial; margin:3px;}
 </style>
-</head>
+
 <body>
 <center>
 <h2><a href="mm1.html"> Mobile Menu 01</a></h2>
@@ -35,4 +34,4 @@ h2{font-family:arial; margin:3px;}
   main page:- <a href="https://github.com/sndh7"> https://github.com/sndh7 </a>
 </center>
 </body>
-</html>
+
