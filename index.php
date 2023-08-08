@@ -1,8 +1,9 @@
 
-  <title>INDEX PAGE</title>
+<title>INDEX PAGE</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://patiltechnicalsolutions.com/img/ms4.png" rel="icon">
 <link href="https://patiltechnicalsolutions.com/img/ms4.png" rel="apple-touch-icon">
+
 <style>
 body{ max-width:500px; margin:1px auto;
 font-family: arial;
