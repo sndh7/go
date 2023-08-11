@@ -31,6 +31,7 @@ h2{font-family:arial; margin:3px;}
 <h2><a href="mm3.html"> Mobile Menu 03</a></h2>
 <h2><a href="mm4.html"> Mobile Menu 04</a></h2>
 <h2><a href="mm5.html"> Mobile Menu 05</a></h2>
+<h2><a href="mm6.html"> Mobile Menu 06</a></h2>
   main page:- <br><a href="https://github.com/sndh7"> https://github.com/sndh7 </a>
 </div>
 </center>
