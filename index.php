@@ -1,5 +1,5 @@
-<html lang="en">
-<head>
+
+
   <title>INDEX PAGE</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://patiltechnicalsolutions.com/img/ms4.png" rel="icon">
@@ -23,16 +23,16 @@ a, a:active, a:visited {color:#000066;}
 a:hover {color:#66a3ff;}
 h2{font-family:arial; margin:3px;}
 </style>
-</head>
-<body><center>
+
+<center>
 <div style="padding:10px; background-color:rgba(255,255,255,0.8); width:275px; border-radius:14px; margin:6px auto;">
-<h2><a href="mm1.html"> Mobile Menu 01</a></h2>
-<h2><a href="mm2.html"> Mobile Menu 02</a></h2>
-<h2><a href="mm3.html"> Mobile Menu 03</a></h2>
-<h2><a href="mm4.html"> Mobile Menu 04</a></h2>
+<!-- <h2><a href="mm1.html"> Mobile Menu 01</a></h2> -->
+<!-- <h2><a href="mm2.html"> Mobile Menu 02</a></h2> -->
+<!-- <h2><a href="mm3.html"> Mobile Menu 03</a></h2> -->
+<!-- <h2><a href="mm4.html"> Mobile Menu 04</a></h2> -->
 <h2><a href="mm5.html"> Mobile Menu 05</a></h2>
 <h2><a href="mm6.html"> Mobile Menu 06</a></h2>
   main page:- <br><a href="https://github.com/sndh7"> https://github.com/sndh7 </a>
 </div>
 </center>
-</body></html>
+
